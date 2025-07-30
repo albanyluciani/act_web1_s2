@@ -1,3 +1,4 @@
+// 🔟 Autenticación simple
 let usuario = "admin";
 let contrasena = "1234";
 if (usuario === "admin" && contrasena === "1234") {
