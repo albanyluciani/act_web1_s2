@@ -1,3 +1,4 @@
+//6️⃣ Nota a letra
 let nota = 83;
 
 if (nota >= 90) {

@@ -1,3 +1,4 @@
+//3️⃣ Clasificación de edad
 let edad = 15;
 if (edad >= 0 && edad <= 12) {
   console.log("Es un niño");

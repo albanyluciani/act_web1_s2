@@ -1,3 +1,4 @@
+//4️⃣ Calculadora básica con switch
 let a = 10;
 let b = 3;
 let operador = "*";

@@ -1,6 +1,13 @@
-let dia = 'sabado';
-if (dia === 'lunes' || dia === 'martes' || dia === 'miercoles' || dia === 'jueves' || dia === 'viernes') {
-  console.log('laborable');
-} else if (dia === 'sabado' || dia === 'domingo') {
-  console.log('fin de semana');
+//5️⃣ Día laborable o fin de semana
+let dia = "sabado";
+if (
+  dia === "lunes" ||
+  dia === "martes" ||
+  dia === "miercoles" ||
+  dia === "jueves" ||
+  dia === "viernes"
+) {
+  console.log("laborable");
+} else if (dia === "sabado" || dia === "domingo") {
+  console.log("fin de semana");
 }

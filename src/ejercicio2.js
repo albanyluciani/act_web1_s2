@@ -1,3 +1,4 @@
+//2️⃣ Mayor de dos números
 let a = 14;
 let b = 9;
 if (a > b) {
