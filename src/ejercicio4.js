@@ -24,4 +24,4 @@ switch (operador) {
   default:
     resultado = "operador no válido";
 }
-console.log(`Resultado: ${resultado}`);
+console.log("Resultado: ${resultado}");
